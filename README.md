@@ -7,7 +7,7 @@ Descriptive statistics of patient attributes
 
 Univariate, bivariate, and multivariate visualizations
 
-Correlation heatmaps and outlier detection
+Several plots to show relationship between variables.
 
 Feature engineering (e.g., age groups, cholesterol risk flags)
 
